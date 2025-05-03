@@ -15,7 +15,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/VoiceForgeAI.git
+   git clone https://github.com/jfontalvoes/VoiceForgeAI.git
    cd VoiceForgeAI
    ```
 
@@ -83,6 +83,8 @@ Output: A realistic MP3 audio clip streamed back in the browser.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## ✍️ Author
+## ✨ Author 
 
-- **Your Name** – [@yourusername](https://github.com/yourusername)
+Developed by Jonathan Estiven Fontalvo Aparicio 📧
+
+Feel free to copy this into your repo. If you'd like to contribute or help, just let me know!
